@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Core\\Chesser.Core.csproj": {}
+    "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\rgz2\\Chesser\\Chesser.Core\\Chesser.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Core\\Chesser.Core.csproj": {
+    "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\rgz2\\Chesser\\Chesser.Core\\Chesser.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Core\\Chesser.Core.csproj",
+        "projectUniqueName": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\rgz2\\Chesser\\Chesser.Core\\Chesser.Core.csproj",
         "projectName": "Chesser.Core",
-        "projectPath": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Core\\Chesser.Core.csproj",
+        "projectPath": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\rgz2\\Chesser\\Chesser.Core\\Chesser.Core.csproj",
         "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Core\\obj\\",
+        "outputPath": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\rgz2\\Chesser\\Chesser.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

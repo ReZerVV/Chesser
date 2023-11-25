@@ -7,6 +7,8 @@ internal static class Program
 {
     public static void Main(string[] args)
     {
+        Console.WriteLine("Hello world!");
+        
         Application application = new Application();
         application.MainView = new MenuGameView();
         application.ApplicationLoop();
