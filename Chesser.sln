@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chesser.App", "Chesser.App\Chesser.App.csproj", "{AC20BF23-20E8-4A83-A26E-0F707FAE5030}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chesser.Core", "Chesser.Core\Chesser.Core.csproj", "{324B2771-7B32-4883-836C-153A64576A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chesser.Drawing", "Chesser.Drawing\Chesser.Drawing.csproj", "{BA0CEE30-5B68-4C61-B4DF-4AEF79B4F1AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC20BF23-20E8-4A83-A26E-0F707FAE5030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC20BF23-20E8-4A83-A26E-0F707FAE5030}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC20BF23-20E8-4A83-A26E-0F707FAE5030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC20BF23-20E8-4A83-A26E-0F707FAE5030}.Release|Any CPU.Build.0 = Release|Any CPU
+		{324B2771-7B32-4883-836C-153A64576A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324B2771-7B32-4883-836C-153A64576A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324B2771-7B32-4883-836C-153A64576A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324B2771-7B32-4883-836C-153A64576A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA0CEE30-5B68-4C61-B4DF-4AEF79B4F1AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA0CEE30-5B68-4C61-B4DF-4AEF79B4F1AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA0CEE30-5B68-4C61-B4DF-4AEF79B4F1AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA0CEE30-5B68-4C61-B4DF-4AEF79B4F1AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

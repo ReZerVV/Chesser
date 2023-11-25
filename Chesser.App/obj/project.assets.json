@@ -1,0 +1,116 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Chesser.Core/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Chesser.Core.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Chesser.Core.dll": {}
+        }
+      },
+      "Chesser.Drawing/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Chesser.Drawing.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Chesser.Drawing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chesser.Core/1.0.0": {
+      "type": "project",
+      "path": "../Chesser.Core/Chesser.Core.csproj",
+      "msbuildProject": "../Chesser.Core/Chesser.Core.csproj"
+    },
+    "Chesser.Drawing/1.0.0": {
+      "type": "project",
+      "path": "../Chesser.Drawing/Chesser.Drawing.csproj",
+      "msbuildProject": "../Chesser.Drawing/Chesser.Drawing.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Chesser.Core >= 1.0.0",
+      "Chesser.Drawing >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\kiril\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.App\\Chesser.App.csproj",
+      "projectName": "Chesser.App",
+      "projectPath": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.App\\Chesser.App.csproj",
+      "packagesPath": "C:\\Users\\kiril\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\kiril\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Core\\Chesser.Core.csproj": {
+              "projectPath": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Core\\Chesser.Core.csproj"
+            },
+            "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Drawing\\Chesser.Drawing.csproj": {
+              "projectPath": "C:\\Users\\kiril\\Projects\\Projects_Learning\\Soft Skills\\Chesser\\Chesser.Drawing\\Chesser.Drawing.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

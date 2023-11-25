@@ -1,0 +1,12 @@
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\bin\Debug\net7.0\Chesser.Core.deps.json
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\bin\Debug\net7.0\Chesser.Core.dll
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\bin\Debug\net7.0\Chesser.Core.pdb
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\Chesser.Core.csproj.AssemblyReference.cache
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\Chesser.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\Chesser.Core.AssemblyInfoInputs.cache
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\Chesser.Core.AssemblyInfo.cs
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\Chesser.Core.csproj.CoreCompileInputs.cache
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\Chesser.Core.dll
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\refint\Chesser.Core.dll
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\Chesser.Core.pdb
+C:\Users\kiril\Projects\Projects_Learning\Soft Skills\Chesser\Chesser.Core\obj\Debug\net7.0\ref\Chesser.Core.dll

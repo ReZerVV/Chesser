@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Chesser.App/1.0.0": {
+        "dependencies": {
+          "Chesser.Core": "1.0.0",
+          "Chesser.Drawing": "1.0.0"
+        },
+        "runtime": {
+          "Chesser.App.dll": {}
+        }
+      },
+      "Chesser.Core/1.0.0": {
+        "runtime": {
+          "Chesser.Core.dll": {}
+        }
+      },
+      "Chesser.Drawing/1.0.0": {
+        "runtime": {
+          "Chesser.Drawing.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chesser.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chesser.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Chesser.Drawing/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
